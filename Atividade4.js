@@ -27,3 +27,4 @@
 "JOIN Telefone t e ON c.id_client = t.id_client"
 "JOIN Estado e ON c.id_state"
 "WHERE e.sigla = 'SP';"
+
